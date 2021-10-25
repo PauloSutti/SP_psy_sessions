@@ -1,0 +1,32 @@
+Dicionário de Dados
+1. Municipio: Código nacional e nome de municípios do Estado de São Paulo
+2. data_ref: Ano de referência
+3. Code: Código nacional para municípios
+4. Cidades: Nome do Município
+5. 0 a 14 anos: Projeção anual de população em faixa etária entre 0 e 14 anos (inclusivo)
+6. 15 a 29 anos: Projeção anual de população em faixa etária entre 15 e 29 anos (inclusivo)
+7. 30 a 59 anos: Projeção anual de população em faixa etária entre 30 e 59 anos (inclusivo)
+8. 60+ anos: Projeção anual de população em faixa etária acima de 60 anos (inclusivo)
+9. Masculino: Projeção de população do sexo masculino
+10. Feminino: Projeção de população do sexo feminino
+11. Pop_Total: Projeção de população por município
+12. Atendimentos_valor_medio: Valor médio mensal gasto com atendimentos em serviços de saúde
+13. Psi_valor_medio: Valor médio mensal gasto com atendimentos em serviços de saúde relacionados a psicologia
+14. Psi_privado_valor_medio: Valor médio mensal direcionado pelo SUS para serviços privados de saúde relacionados a psicologia
+15. Atendimentos_qtd_media: Quantidade média mensal de atendimentos realizados por serviços de saúde
+16. Psi_qtd_media: Quantidade média mensal de atendimentos realizados por serviços de saúde relacionados a psicologia
+17. Psi_privado_qtd_media: Quantidade média mensal de atendimentos realizados por serviços privados de saúde relacionados a psicologia
+18. Profissionais_Publicos: Média anual de psicólogos públicos registrados no SUS
+19. Profissionais_Privados: Média anual de psicólogos privados registrados no SUS
+20. Profissionais_Total: Média anual de psicólogos registrados no SUS
+21. Estabelecimentos_Publicos: Média anual de estabelecimentos de saúde públicos registrados no SUS
+22. Estabelecimentos_Privados: Média anual de estabelecimentos de saúde privados registrados no SUS
+23. Estabelecimentos_Total_x: Média anual de estabelecimentos de saúde registrados no SUS (por Jurisdição)
+24. Estabelecimentos_Psi: Média anual de estabelecimentos provedores de serviços psicológicos registrados no SUS
+25. Estabelecimentos_Atend: Média anual de estabelecimentos provedores de atendimentos de saúde registrados no SUS
+26. Estabelecimentos_Total_y: Média anual de estabelecimentos de saúde registrados no SUS (por Tipos)
+27. Contribuição para o PIB estadual %: Contribuição percentual anual municipal relativo ao PIB estadual
+28. PIB (mil R$): PIB anual municipal (em reais)
+29. Assalariados: Quantidade de trabalhadores assalariados registrados no território municipal
+30. Renda média em Salários mínimos: Média salarial anual municipal em relação ao salário mínimo do período
+31. Renda média (R$): Média salarial anual municipal em reais
